@@ -28,6 +28,7 @@ MODULE_LOOKUP = {
     "ChatCompletions": "langchain_community.adapters.openai",
     "ChoiceChunk": "langchain_community.adapters.openai",
     "ChatCompletionChunk": "langchain_community.adapters.openai",
+    "convert_dict_to_message": "langchain_community.adapters.openai",
     "convert_message_to_dict": "langchain_community.adapters.openai",
     "convert_openai_messages": "langchain_community.adapters.openai",
     "ChatCompletion": "langchain_community.adapters.openai",
